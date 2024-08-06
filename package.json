@@ -1,0 +1,20 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "page linker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeSilvaR/WebScrapper.git"
+  },
+  "author": "Joe C. Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeSilvaR/WebScrapper/issues"
+  },
+  "homepage": "https://github.com/JoeSilvaR/WebScrapper#readme"
+}
